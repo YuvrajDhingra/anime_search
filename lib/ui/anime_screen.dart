@@ -6,7 +6,6 @@ import '../model/anime_model.dart';
 
 class AnimeSearchScreen extends StatefulWidget {
   const AnimeSearchScreen({super.key});
-
   @override
   _AnimeSearchScreenState createState() => _AnimeSearchScreenState();
 }
